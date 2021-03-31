@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "simple html, css, js app",
   "main": "index.js",
+  "homepage": "https://github.com/aca-dec-2020/npm",
   "scripts": {
     "start": "node index.js",
     "deploy": "gh-pages -d ./"
